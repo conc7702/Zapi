@@ -1,0 +1,23 @@
+{
+  "name": "zapi",
+  "version": "1.0.0",
+  "description": "WhatsApp api non oficial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conc7702/Zapi.git"
+  },
+  "keywords": [
+    "WhatApp",
+    "zapzap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conc7702/Zapi/issues"
+  },
+  "homepage": "https://github.com/conc7702/Zapi#readme"
+}
